@@ -1,0 +1,18 @@
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.dll
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.pdb
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
+C:\Users\Administrator\source\repos\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb
+C:\Users\admin\Desktop\Spring2023\Quality Assuarance\Assignment-2\TriangleSolver\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.dll
+C:\Users\admin\Desktop\Spring2023\Quality Assuarance\Assignment-2\TriangleSolver\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.pdb
+C:\Users\admin\Desktop\Spring2023\Quality Assuarance\Assignment-2\TriangleSolver\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Spring2023\Quality Assuarance\Assignment-2\TriangleSolver\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Spring2023\Quality Assuarance\Assignment-2\TriangleSolver\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
+C:\Users\admin\Desktop\Spring2023\Quality Assuarance\Assignment-2\TriangleSolver\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb
+C:\Users\admin\Desktop\Spring2023\Quality Assuarance\Assignment-2\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.dll
+C:\Users\admin\Desktop\Spring2023\Quality Assuarance\Assignment-2\TriangleSolver\TriangleSolver\bin\Debug\TriangleSolver.pdb
+C:\Users\admin\Desktop\Spring2023\Quality Assuarance\Assignment-2\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Spring2023\Quality Assuarance\Assignment-2\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Spring2023\Quality Assuarance\Assignment-2\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.dll
+C:\Users\admin\Desktop\Spring2023\Quality Assuarance\Assignment-2\TriangleSolver\TriangleSolver\obj\Debug\TriangleSolver.pdb
