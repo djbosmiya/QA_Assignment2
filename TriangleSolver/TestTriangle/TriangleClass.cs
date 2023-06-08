@@ -172,5 +172,59 @@ namespace TestTriangle
             // Assert
             Assert.AreEqual(expected, actual);
         }
+
+        //Test Case-10 for  verifying a zero length for one or more sides
+        [Test]
+        public void SideWithZero_input0and3and4()
+        {
+            // Arrange
+            int firstSide = 0;
+            int secondSide = 3;
+            int thirdSide = 4;
+
+            string expected = "At least one side of your triangle has a zero length and is thus invalid";
+
+            // Act
+            string actual = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        //Test Case-11 for  verifying a zero length for one or more sides
+        [Test]
+        public void SideWithZero_input0and0and9()
+        {
+            // Arrange
+            int firstSide = 0;
+            int secondSide = 0;
+            int thirdSide = 9;
+
+            string expected = "At least one side of your triangle has a zero length and is thus invalid";
+
+            // Act
+            string actual = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        //Test Case-11 for  verifying a zero length for one or more sides
+        [Test]
+        public void SideWithZero_input25and0and21()
+        {
+            // Arrange
+            int firstSide = 25;
+            int secondSide = 0;
+            int thirdSide = 21;
+
+            string expected = "At least one side of your triangle has a zero length and is thus invalid";
+
+            // Act
+            string actual = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
     }
 }
