@@ -121,12 +121,12 @@ namespace TestTriangle
 
         //Test Case-7 for Scalene Triangle
         [Test]
-        public void Scalene_input1and2and3()
+        public void Scalene_input70and80and100()
         {
             // Arrange
-            int firstSide = 1;
-            int secondSide = 2;
-            int thirdSide = 3;
+            int firstSide = 70;
+            int secondSide = 80;
+            int thirdSide = 100;
 
             string expected = "The triangle is valid and is a SCALENE";
 
@@ -139,12 +139,12 @@ namespace TestTriangle
 
         //Test Case-8 for Scalene Triangle
         [Test]
-        public void Scalene_input7and1and4()
+        public void Scalene_input25and26and27()
         {
             // Arrange
-            int firstSide = 7;
-            int secondSide = 1;
-            int thirdSide = 4;
+            int firstSide = 25;
+            int secondSide = 26;
+            int thirdSide = 27;
 
             string expected = "The triangle is valid and is a SCALENE";
 
