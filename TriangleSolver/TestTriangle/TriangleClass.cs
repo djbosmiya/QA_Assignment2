@@ -209,7 +209,7 @@ namespace TestTriangle
             Assert.AreEqual(expected, actual);
         }
 
-        //Test Case-11 for  verifying a zero length for one or more sides
+        //Test Case-12 for  verifying a zero length for one or more sides
         [Test]
         public void SideWithZero_input25and0and21()
         {
@@ -219,6 +219,60 @@ namespace TestTriangle
             int thirdSide = 21;
 
             string expected = "At least one side of your triangle has a zero length and is thus invalid";
+
+            // Act
+            string actual = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        //Test Case-13 for verifying an invalid response (other than a zero length)
+        [Test]
+        public void InvalidResponse_input1and2and4()
+        {
+            // Arrange
+            int firstSide = 1;
+            int secondSide = 2;
+            int thirdSide = 4;
+
+            string expected = "A triangle cannot be formed with those numbers";
+
+            // Act
+            string actual = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        //Test Case-14 for verifying an invalid response (other than a zero length)
+        [Test]
+        public void InvalidResponse_input2and2and4()
+        {
+            // Arrange
+            int firstSide = 2;
+            int secondSide = 2;
+            int thirdSide = 4;
+
+            string expected = "A triangle cannot be formed with those numbers";
+
+            // Act
+            string actual = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
+
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
+
+        //Test Case-15 for verifying an invalid response (other than a zero length)
+        [Test]
+        public void InvalidResponse_input9and2and1()
+        {
+            // Arrange
+            int firstSide = 9;
+            int secondSide = 2;
+            int thirdSide = 1;
+
+            string expected = "A triangle cannot be formed with those numbers";
 
             // Act
             string actual = Triangle.AnalyzeTriangle(firstSide, secondSide, thirdSide);
